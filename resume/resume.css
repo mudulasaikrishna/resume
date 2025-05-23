@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 150vh;
+    background-color: rgb(201, 221, 239);
+    padding: 20px 0px;
+}
+.container{
+    padding: 30px;
+    margin: 50px 0px;
+    height: 100%;
+    width: 70vw;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    width: 27%;
+    height: 100%;
+}
+.right{
+    width: 70%;
+    height: 100%;
+    padding: 20px 0px;
+}
+.top{
+    width: 100%;
+    height: 25%;
+    gap: 5px;
+    background-color: rgb(134, 133, 134);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bottom{
+    width: 100%;
+    height: 75%;
+    background-color: rgb(40, 40, 41);
+    padding: 30px 20px;
+}
+.sai{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+.top h3{
+    font-weight: 500;
+}
+.top h5{
+    font-weight: 400;
+}
+.top div a{
+    text-decoration: none;
+    color: rgb(32, 32, 32);
+    font-size: 13px;
+}
+.bottom p{
+    color: bisque;
+    font-size: 18px;
+}
+.b1{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.b1a{
+    font-weight: 400;
+    color: bisque;
+    margin-top: 5px;
+}
+.b1b{
+    font-weight: 300;
+    color: bisque;
+    font-size: 12px;
+}
+.skls{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+.sklsa{
+    width: 70%;
+    height: 3px;
+    background-color: rgb(113, 114, 114);
+}
+.sklsb{
+    width: 70%;
+    height: 3px;
+    background-color: rgb(113, 114, 114);
+}
+.sklsc{
+    width: 70%;
+    height: 4px;
+    background-color: rgb(113, 114, 114);
+}
+.sklsd{
+    width: 70%;
+    height: 3px;
+    background-color: rgb(113, 114, 114);
+}
+.sklse{
+    width: 70%;
+    height: 3px;
+    background-color: rgb(113, 114, 114);
+}
+.sklsf{
+    width: 70%;
+    height: 3px;
+    background-color: rgb(113, 114, 114);
+}
+.b1aa{
+    font-weight: 400;
+    color: bisque;
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+.bd{
+    width: 70%;
+}
+.b1at{
+    height: 100%;
+    width: 90%;
+    background-color: blue;
+}
+.b1at1{
+    height: 100%;
+    width: 90%;
+    background-color: blue;
+}
+.b1at2{
+    height: 100%;
+    width: 80%;
+    background-color: blue;
+}
+.b1at3{
+    height: 100%;
+    width: 60%;
+    background-color: blue;
+}
+.b1at4{
+    height: 100%;
+    width: 90%;
+    background-color: blue;
+}
+.b1at5{
+    height: 100%;
+    width: 60%;
+    background-color: blue;
+}
+.rh2{
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: blue;
+}
+.r-head{
+    font-size: 15px;
+    color: rgb(48, 47, 47);
+    margin-top: 10px;
+    text-align: justify;
+}
+ul li{
+    font-size: 13px;
+    color: rgb(48, 47, 47);
+    margin-top: 10px;
+    text-align: justify;
+}
+.r-head1{
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+    color: rgb(9, 9, 9);
+}
+.r-head2{
+    font-size: 15px;
+    color: rgb(24, 23, 23);
+    margin-top: 10px;
+    text-align: justify;
+}
+.icfai{
+    margin: 20px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
